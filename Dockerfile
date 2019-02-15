@@ -14,7 +14,7 @@ FROM centos
 
 MAINTAINER Supermasita <supermasita@supermasita.com>
 
-ENV UPDATED "2018-01-02"
+ENV UPDATED "2019-02-15"
 
 ## Import the Centos-7 RPM GPG key to prevent warnings 
 ## Add EPEL and Webtatic repos
